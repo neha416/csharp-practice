@@ -1,0 +1,15 @@
+/Users/neha/CSharpPractice/CalculatorApp/bin/Debug/net10.0/CalculatorApp
+/Users/neha/CSharpPractice/CalculatorApp/bin/Debug/net10.0/CalculatorApp.deps.json
+/Users/neha/CSharpPractice/CalculatorApp/bin/Debug/net10.0/CalculatorApp.runtimeconfig.json
+/Users/neha/CSharpPractice/CalculatorApp/bin/Debug/net10.0/CalculatorApp.dll
+/Users/neha/CSharpPractice/CalculatorApp/bin/Debug/net10.0/CalculatorApp.pdb
+/Users/neha/CSharpPractice/CalculatorApp/obj/Debug/net10.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neha/CSharpPractice/CalculatorApp/obj/Debug/net10.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/neha/CSharpPractice/CalculatorApp/obj/Debug/net10.0/CalculatorApp.AssemblyInfo.cs
+/Users/neha/CSharpPractice/CalculatorApp/obj/Debug/net10.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/neha/CSharpPractice/CalculatorApp/obj/Debug/net10.0/CalculatorApp.sourcelink.json
+/Users/neha/CSharpPractice/CalculatorApp/obj/Debug/net10.0/CalculatorApp.dll
+/Users/neha/CSharpPractice/CalculatorApp/obj/Debug/net10.0/refint/CalculatorApp.dll
+/Users/neha/CSharpPractice/CalculatorApp/obj/Debug/net10.0/CalculatorApp.pdb
+/Users/neha/CSharpPractice/CalculatorApp/obj/Debug/net10.0/CalculatorApp.genruntimeconfig.cache
+/Users/neha/CSharpPractice/CalculatorApp/obj/Debug/net10.0/ref/CalculatorApp.dll

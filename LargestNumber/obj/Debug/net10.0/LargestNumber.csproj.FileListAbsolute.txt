@@ -1,0 +1,15 @@
+/Users/neha/CSharpPractice/LargestNumber/bin/Debug/net10.0/LargestNumber
+/Users/neha/CSharpPractice/LargestNumber/bin/Debug/net10.0/LargestNumber.deps.json
+/Users/neha/CSharpPractice/LargestNumber/bin/Debug/net10.0/LargestNumber.runtimeconfig.json
+/Users/neha/CSharpPractice/LargestNumber/bin/Debug/net10.0/LargestNumber.dll
+/Users/neha/CSharpPractice/LargestNumber/bin/Debug/net10.0/LargestNumber.pdb
+/Users/neha/CSharpPractice/LargestNumber/obj/Debug/net10.0/LargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neha/CSharpPractice/LargestNumber/obj/Debug/net10.0/LargestNumber.AssemblyInfoInputs.cache
+/Users/neha/CSharpPractice/LargestNumber/obj/Debug/net10.0/LargestNumber.AssemblyInfo.cs
+/Users/neha/CSharpPractice/LargestNumber/obj/Debug/net10.0/LargestNumber.csproj.CoreCompileInputs.cache
+/Users/neha/CSharpPractice/LargestNumber/obj/Debug/net10.0/LargestNumber.sourcelink.json
+/Users/neha/CSharpPractice/LargestNumber/obj/Debug/net10.0/LargestNumber.dll
+/Users/neha/CSharpPractice/LargestNumber/obj/Debug/net10.0/refint/LargestNumber.dll
+/Users/neha/CSharpPractice/LargestNumber/obj/Debug/net10.0/LargestNumber.pdb
+/Users/neha/CSharpPractice/LargestNumber/obj/Debug/net10.0/LargestNumber.genruntimeconfig.cache
+/Users/neha/CSharpPractice/LargestNumber/obj/Debug/net10.0/ref/LargestNumber.dll
