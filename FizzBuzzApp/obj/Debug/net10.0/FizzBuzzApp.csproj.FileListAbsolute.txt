@@ -1,0 +1,14 @@
+/Users/neha/CSharpPractice/FizzBuzzApp/bin/Debug/net10.0/FizzBuzzApp
+/Users/neha/CSharpPractice/FizzBuzzApp/bin/Debug/net10.0/FizzBuzzApp.deps.json
+/Users/neha/CSharpPractice/FizzBuzzApp/bin/Debug/net10.0/FizzBuzzApp.runtimeconfig.json
+/Users/neha/CSharpPractice/FizzBuzzApp/bin/Debug/net10.0/FizzBuzzApp.dll
+/Users/neha/CSharpPractice/FizzBuzzApp/bin/Debug/net10.0/FizzBuzzApp.pdb
+/Users/neha/CSharpPractice/FizzBuzzApp/obj/Debug/net10.0/FizzBuzzApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neha/CSharpPractice/FizzBuzzApp/obj/Debug/net10.0/FizzBuzzApp.AssemblyInfoInputs.cache
+/Users/neha/CSharpPractice/FizzBuzzApp/obj/Debug/net10.0/FizzBuzzApp.AssemblyInfo.cs
+/Users/neha/CSharpPractice/FizzBuzzApp/obj/Debug/net10.0/FizzBuzzApp.csproj.CoreCompileInputs.cache
+/Users/neha/CSharpPractice/FizzBuzzApp/obj/Debug/net10.0/FizzBuzzApp.dll
+/Users/neha/CSharpPractice/FizzBuzzApp/obj/Debug/net10.0/refint/FizzBuzzApp.dll
+/Users/neha/CSharpPractice/FizzBuzzApp/obj/Debug/net10.0/FizzBuzzApp.pdb
+/Users/neha/CSharpPractice/FizzBuzzApp/obj/Debug/net10.0/FizzBuzzApp.genruntimeconfig.cache
+/Users/neha/CSharpPractice/FizzBuzzApp/obj/Debug/net10.0/ref/FizzBuzzApp.dll

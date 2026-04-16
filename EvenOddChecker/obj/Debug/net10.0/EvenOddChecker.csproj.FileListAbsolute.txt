@@ -1,0 +1,14 @@
+/Users/neha/CSharpPractice/EvenOddChecker/bin/Debug/net10.0/EvenOddChecker
+/Users/neha/CSharpPractice/EvenOddChecker/bin/Debug/net10.0/EvenOddChecker.deps.json
+/Users/neha/CSharpPractice/EvenOddChecker/bin/Debug/net10.0/EvenOddChecker.runtimeconfig.json
+/Users/neha/CSharpPractice/EvenOddChecker/bin/Debug/net10.0/EvenOddChecker.dll
+/Users/neha/CSharpPractice/EvenOddChecker/bin/Debug/net10.0/EvenOddChecker.pdb
+/Users/neha/CSharpPractice/EvenOddChecker/obj/Debug/net10.0/EvenOddChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neha/CSharpPractice/EvenOddChecker/obj/Debug/net10.0/EvenOddChecker.AssemblyInfoInputs.cache
+/Users/neha/CSharpPractice/EvenOddChecker/obj/Debug/net10.0/EvenOddChecker.AssemblyInfo.cs
+/Users/neha/CSharpPractice/EvenOddChecker/obj/Debug/net10.0/EvenOddChecker.csproj.CoreCompileInputs.cache
+/Users/neha/CSharpPractice/EvenOddChecker/obj/Debug/net10.0/EvenOddChecker.dll
+/Users/neha/CSharpPractice/EvenOddChecker/obj/Debug/net10.0/refint/EvenOddChecker.dll
+/Users/neha/CSharpPractice/EvenOddChecker/obj/Debug/net10.0/EvenOddChecker.pdb
+/Users/neha/CSharpPractice/EvenOddChecker/obj/Debug/net10.0/EvenOddChecker.genruntimeconfig.cache
+/Users/neha/CSharpPractice/EvenOddChecker/obj/Debug/net10.0/ref/EvenOddChecker.dll
